@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-I'm an AI/ML Software Engineer with **6+ years of experience** building production-grade intelligent systems. Currently at **UnitedHealth Group**, where I develop LLM-powered clinical automation, RAG pipelines, and ML forecasting models that process **12M+ patient records**.
+I'm an AI/ML Software Engineer with **4+ years of experience** building production-grade intelligent systems. Currently at **UnitedHealth Group**, where I develop LLM-powered clinical automation, RAG pipelines, and ML forecasting models that process **12M+ patient records**.
 
 - 🔭 Currently working on **LLM fine-tuning (LoRA), RAG pipelines, and clinical NLP** at UnitedHealth Group
 - 🌱 Deep expertise in **Transformers, XGBoost, SHAP/LIME explainability, and MLOps**
